@@ -18,6 +18,12 @@
         <artifactId>mssql-jdbc</artifactId>
         <version>9.5.0.jre17-preview</version>
     </dependency>
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.27</version>
+    </dependency>
+
 </dependencies>
 
 
